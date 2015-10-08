@@ -37,7 +37,11 @@
     "csv-write-stream": "^0.1.1",
     "datejs": "^1.0.0-rc1",
     "formidable": "~1.0.14",
+    "lodash": "^3.10.1",
     "moment-timezone": "^0.2.1",
+    "mongodb": "^2.0.45",
+    "mongoose": "^4.1.10",
+    "phant-stream-mongodb": "^2.1.4",
     "qs": "^1.2.2",
     "routes": "^1.2.0",
     "wez-telnet": "^0.1.1",
@@ -46,8 +50,6 @@
   "optionalDependencies": {
     "dotenv": "^0.2.5",
     "phant-keychain-hex": "^0.2.1",
-    "phant-stream-csv": "^2.0.3",
-    "phant-meta-nedb": "^3.0.0",
     "phant-manager-http": "^4.5.10"
   },
   "devDependencies": {
